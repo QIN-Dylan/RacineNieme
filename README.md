@@ -1,0 +1,2 @@
+# RacineNieme
+Methode par itteration
